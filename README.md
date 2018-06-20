@@ -13,7 +13,7 @@ For a future network with bigger blocks.
 
 ## Getting Started
 
-See [docs/HOWTO.rst](). There is also an
+See [docs/HOWTO.rst](https://github.com/Seci-Coin/ElectrumX-Seci/blob/master/docs/HOWTO.rst). There is also an
 [installer](https://github.com/seci-coin/electrumx-installer) available
 that simplifies the installation on various Linux-based distributions.
 This is the preferred method.
